@@ -1,7 +1,6 @@
 - 🌱 Hi, I’m Anthony (@redsparrowinfo)
 - 🌱 I’m interested in operaiting systems
 - 🌱 I’m currently learning Linux
-- 🌱 I’m looking to collaborate on Linux
 - 🌱 How to reach me: redsparrowinfo@gmail.com
 
 <!---
