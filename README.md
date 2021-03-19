@@ -1,6 +1,6 @@
 - 🌱 Hi, I’m Anthony (@redsparrowinfo)
-- 🌱 I’m interested in operating systems
-- 🌱 I’m currently learning Linux
+- 🌱 I’m interested in operating systems and blockchain
+- 🌱 I’m currently learning Ethereum, Bitcoin
 - 🌱 How to reach me: redsparrowinfo@gmail.com
 
 <!---
